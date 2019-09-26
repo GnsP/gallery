@@ -1,6 +1,6 @@
 [
   {
-    "file": "0.jpg",
+    "file": "store/0.jpg",
     "name": "Old forest in twilight",
     "year": "2013",
     "tags": [
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "file": "1.jpg",
+    "file": "store/1.jpg",
     "name": "Sculpture of a trunk",
     "year": "2014",
     "tags": [
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "file": "2.jpg",
+    "file": "store/2.jpg",
     "name": "Bonsai near window",
     "year": "2014",
     "tags": [
@@ -29,7 +29,7 @@
     ]
   },
   {
-    "file": "3.jpg",
+    "file": "store/3.jpg",
     "name": "Last of the red wine",
     "year": "2014",
     "tags": [
@@ -39,7 +39,7 @@
     ]
   },
   {
-    "file": "4.jpg",
+    "file": "store/4.jpg",
     "name": "Outside the walls of Troy",
     "year": "2014",
     "tags": [
@@ -49,7 +49,7 @@
     ]
   },
   {
-    "file": "5.jpg",
+    "file": "store/5.jpg",
     "name": "The Glider",
     "year": "2014",
     "tags": [
@@ -60,7 +60,7 @@
     ]
   },
   {
-    "file": "6.jpg",
+    "file": "store/6.jpg",
     "name": "Dining room interior",
     "year": "2014",
     "tags": [
@@ -70,7 +70,7 @@
     ]
   },
   {
-    "file": "7.jpg",
+    "file": "store/7.jpg",
     "name": "On the windowsill",
     "year": "2014",
     "tags": [
@@ -80,7 +80,7 @@
     ]
   },
   {
-    "file": "8.jpg",
+    "file": "store/8.jpg",
     "name": "Cup and Teapot",
     "year": "2014",
     "tags": [
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "file": "9.jpg",
+    "file": "store/9.jpg",
     "name": "Study of a woman",
     "year": "2015",
     "tags": [
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "file": "10.jpg",
+    "file": "store/10.jpg",
     "name": "Flood",
     "year": "2015",
     "tags": [
@@ -109,7 +109,7 @@
     ]
   },
   {
-    "file": "11.jpg",
+    "file": "store/11.jpg",
     "name": "Lowpoly elephant",
     "year": "2015",
     "tags": [
@@ -119,7 +119,7 @@
     ]
   },
   {
-    "file": "12.jpg",
+    "file": "store/12.jpg",
     "name": "Lowpoly deer",
     "year": "2015",
     "tags": [
@@ -129,7 +129,7 @@
     ]
   },
   {
-    "file": "13.jpg",
+    "file": "store/13.jpg",
     "name": "Chess pieces (Black)",
     "year": "2014",
     "tags": [
@@ -139,7 +139,7 @@
     ]
   },
   {
-    "file": "14.jpg",
+    "file": "store/14.jpg",
     "name": "Untravelled",
     "year": "2015",
     "tags": [
@@ -149,7 +149,7 @@
     ]
   },
   {
-    "file": "15.jpg",
+    "file": "store/15.jpg",
     "name": "Face behind cracked glass",
     "year": "2015",
     "tags": [
@@ -158,7 +158,7 @@
     ]
   },
   {
-    "file": "16.jpg",
+    "file": "store/16.jpg",
     "name": "Lowpoly landscape",
     "year": "2016",
     "tags": [
@@ -168,7 +168,7 @@
     ]
   },
   {
-    "file": "17.jpg",
+    "file": "store/17.jpg",
     "name": "Sketch of Rasesh",
     "year": "2016",
     "tags": [
@@ -178,7 +178,7 @@
     ]
   },
   {
-    "file": "18.jpg",
+    "file": "store/18.jpg",
     "name": "Countryside",
     "year": "2015",
     "tags": [
@@ -188,7 +188,7 @@
     ]
   },
   {
-    "file": "19.jpg",
+    "file": "store/19.jpg",
     "name": "Sketch of Tyrion",
     "year": "2016",
     "tags": [
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "file": "20.jpg",
+    "file": "store/20.jpg",
     "name": "Chess pieces (White)",
     "year": "2014",
     "tags": [
@@ -208,7 +208,7 @@
     ]
   },
   {
-    "file": "21.jpg",
+    "file": "store/21.jpg",
     "name": "Religion and morality",
     "year": "2015",
     "tags": [
@@ -218,7 +218,7 @@
     ]
   },
   {
-    "file": "22.jpg",
+    "file": "store/22.jpg",
     "name": "Home in October",
     "year": "2016",
     "tags": [
@@ -228,7 +228,7 @@
     ]
   },
   {
-    "file": "23.jpg",
+    "file": "store/23.jpg",
     "name": "Study of faces",
     "year": "2016",
     "tags": [
@@ -238,7 +238,7 @@
     ]
   },
   {
-    "file": "24.jpg",
+    "file": "store/24.jpg",
     "name": "Study of poses",
     "year": "2016",
     "tags": [
@@ -248,7 +248,7 @@
     ]
   },
   {
-    "file": "25.jpg",
+    "file": "store/25.jpg",
     "name": "Study of a face",
     "year": "2013",
     "tags": [
@@ -257,7 +257,7 @@
     ]
   },
   {
-    "file": "26.jpg",
+    "file": "store/26.jpg",
     "name": "Poster for Limbo",
     "year": "2015",
     "tags": [
@@ -266,7 +266,7 @@
     ]
   },
   {
-    "file": "27.jpg",
+    "file": "store/27.jpg",
     "name": "Elements",
     "year": "2010",
     "tags": [
@@ -275,7 +275,7 @@
     ]
   },
   {
-    "file": "28.jpg",
+    "file": "store/28.jpg",
     "name": "Park before rain",
     "year": "2016",
     "tags": [
@@ -285,7 +285,7 @@
     ]
   },
   {
-    "file": "29.jpg",
+    "file": "store/29.jpg",
     "name": "Chess pieces (Not Today)",
     "year": "2014",
     "tags": [
@@ -295,7 +295,7 @@
     ]
   },
   {
-    "file": "30.jpg",
+    "file": "store/30.jpg",
     "name": "Ornate jug",
     "year": "2014",
     "tags": [
@@ -305,7 +305,7 @@
     ]
   },
   {
-    "file": "31.jpg",
+    "file": "store/31.jpg",
     "name": "Study of woman's face",
     "year": "2015",
     "tags": [
@@ -314,7 +314,7 @@
     ]
   },
   {
-    "file": "32.jpg",
+    "file": "store/32.jpg",
     "name": "Just an apple",
     "year": "2015",
     "tags": [
@@ -323,7 +323,7 @@
     ]
   },
   {
-    "file": "33.jpg",
+    "file": "store/33.jpg",
     "name": "Savannah",
     "year": "2014",
     "tags": [
@@ -333,7 +333,7 @@
     ]
   },
   {
-    "file": "34.jpg",
+    "file": "store/34.jpg",
     "name": "Nitrutsav 2016 Logo",
     "year": "2016",
     "tags": [
@@ -343,7 +343,7 @@
     ]
   },
   {
-    "file": "35.jpg",
+    "file": "store/35.jpg",
     "name": "Tree trunks in a forest",
     "year": "2016",
     "tags": [
@@ -353,7 +353,7 @@
     ]
   },
   {
-    "file": "36.jpg",
+    "file": "store/36.jpg",
     "name": "Face, looking up",
     "year": "2011",
     "tags": [
@@ -362,7 +362,7 @@
     ]
   },
   {
-    "file": "37.jpg",
+    "file": "store/37.jpg",
     "name": "A hut on roadside",
     "year": "2016",
     "tags": [
@@ -372,7 +372,7 @@
     ]
   },
   {
-    "file": "38.jpg",
+    "file": "store/38.jpg",
     "name": "Self portrait 1",
     "year": "2010",
     "tags": [
@@ -381,7 +381,7 @@
     ]
   },
   {
-    "file": "39.jpg",
+    "file": "store/39.jpg",
     "name": "Galaxy",
     "year": "2013",
     "tags": [
@@ -390,7 +390,7 @@
     ]
   },
   {
-    "file": "40.jpg",
+    "file": "store/40.jpg",
     "name": "Face with a moustache (abstract)",
     "year": "2010",
     "tags": [
@@ -399,7 +399,7 @@
     ]
   },
   {
-    "file": "41.jpg",
+    "file": "store/41.jpg",
     "name": "Painting of Vamica",
     "year": "2017",
     "tags": [
@@ -408,7 +408,7 @@
     ]
   },
   {
-    "file": "42.jpg",
+    "file": "store/42.jpg",
     "name": "Sketch of goats",
     "year": "2011",
     "tags": [
@@ -418,7 +418,7 @@
     ]
   },
   {
-    "file": "43.jpg",
+    "file": "store/43.jpg",
     "name": "Sketch of windmill",
     "year": "2011",
     "tags": [
@@ -428,7 +428,7 @@
     ]
   },
   {
-    "file": "44.jpg",
+    "file": "store/44.jpg",
     "name": "Sketch of a mountain goat",
     "year": "2011",
     "tags": [
@@ -438,7 +438,7 @@
     ]
   },
   {
-    "file": "45.jpg",
+    "file": "store/45.jpg",
     "name": "Sketch of a girl, painting",
     "year": "2011",
     "tags": [
@@ -448,7 +448,7 @@
     ]
   },
   {
-    "file": "46.jpg",
+    "file": "store/46.jpg",
     "name": "Still life 1",
     "year": "2011",
     "tags": [
@@ -458,7 +458,7 @@
     ]
   },
   {
-    "file": "47.jpg",
+    "file": "store/47.jpg",
     "name": "Masks",
     "year": "2011",
     "tags": [
@@ -468,7 +468,7 @@
     ]
   },
   {
-    "file": "48.jpg",
+    "file": "store/48.jpg",
     "name": "Sketch of a stag",
     "year": "2011",
     "tags": [
@@ -478,7 +478,7 @@
     ]
   },
   {
-    "file": "49.jpg",
+    "file": "store/49.jpg",
     "name": "Sketch of a deer",
     "year": "2011",
     "tags": [
@@ -488,7 +488,7 @@
     ]
   },
   {
-    "file": "50.jpg",
+    "file": "store/50.jpg",
     "name": "Sketch of a lion's head",
     "year": "2011",
     "tags": [
@@ -498,7 +498,7 @@
     ]
   },
   {
-    "file": "51.jpg",
+    "file": "store/51.jpg",
     "name": "Preamble, India",
     "year": "2018",
     "tags": [
@@ -508,7 +508,7 @@
     ]
   },
   {
-    "file": "52.jpg",
+    "file": "store/52.jpg",
     "name": "Sketch of gandalf",
     "year": "2018",
     "tags": [
@@ -518,7 +518,7 @@
     ]
   },
   {
-    "file": "53.jpg",
+    "file": "store/53.jpg",
     "name": "Study of a face 2",
     "year": "2017",
     "tags": [
@@ -529,7 +529,7 @@
     ]
   },
   {
-    "file": "54.jpg",
+    "file": "store/54.jpg",
     "name": "Gandalf meets Bilbo",
     "year": "2018",
     "tags": [
@@ -539,7 +539,7 @@
     ]
   },
   {
-    "file": "55.jpg",
+    "file": "store/55.jpg",
     "name": "Springtime",
     "year": "2018",
     "tags": [
@@ -549,7 +549,7 @@
     ]
   },
   {
-    "file": "56.jpg",
+    "file": "store/56.jpg",
     "name": "Portrait of Rahul",
     "year": "2018",
     "tags": [
@@ -559,7 +559,7 @@
     ]
   },
   {
-    "file": "57.jpg",
+    "file": "store/57.jpg",
     "name": "Shadow of a tree",
     "year": "2011",
     "tags": [
@@ -568,7 +568,7 @@
     ]
   },
   {
-    "file": "58.jpg",
+    "file": "store/58.jpg",
     "name": "Portrait of Mayank and Megha",
     "year": "2018",
     "tags": [
@@ -577,7 +577,7 @@
     ]
   },
   {
-    "file": "59.jpg",
+    "file": "store/59.jpg",
     "name": "Self Portrait 2",
     "year": "2018",
     "tags": [
@@ -586,7 +586,7 @@
     ]
   },
   {
-    "file": "60.jpg",
+    "file": "store/60.jpg",
     "name": "Mother and Child",
     "year": "2018",
     "tags": [
@@ -595,7 +595,7 @@
     ]
   },
   {
-    "file": "61.jpg",
+    "file": "store/61.jpg",
     "name": "Happy dog",
     "year": "2018",
     "tags": [
@@ -605,7 +605,7 @@
     ]
   },
   {
-    "file": "62.jpg",
+    "file": "store/62.jpg",
     "name": "Ancient tribal priest",
     "year": "2018",
     "tags": [
@@ -614,7 +614,7 @@
     ]
   },
   {
-    "file": "63.jpg",
+    "file": "store/63.jpg",
     "name": "Ancient tribal priest 2",
     "year": "2018",
     "tags": [
@@ -623,7 +623,7 @@
     ]
   },
   {
-    "file": "64.jpg",
+    "file": "store/64.jpg",
     "name": "Headless cowboy",
     "year": "2018",
     "tags": [
@@ -632,7 +632,7 @@
     ]
   },
   {
-    "file": "65.jpg",
+    "file": "store/65.jpg",
     "name": "The Freedom Ceremony",
     "year": "2018",
     "tags": [
@@ -641,7 +641,7 @@
     ]
   },
   {
-    "file": "66.jpg",
+    "file": "store/66.jpg",
     "name": "Man, dozing off",
     "year": "2018",
     "tags": [
@@ -651,7 +651,7 @@
     ]
   },
   {
-    "file": "67.jpg",
+    "file": "store/67.jpg",
     "name": "Portrait of Alaka",
     "year": "2018",
     "tags": [
@@ -660,7 +660,7 @@
     ]
   },
   {
-    "file": "68.jpg",
+    "file": "store/68.jpg",
     "name": "Girl pulling rickshaw",
     "year": "2018",
     "tags": [
@@ -670,7 +670,7 @@
     ]
   },
   {
-    "file": "69.jpg",
+    "file": "store/69.jpg",
     "name": "Sketch of an ancient soldier",
     "year": "2018",
     "tags": [
@@ -680,7 +680,7 @@
     ]
   },
   {
-    "file": "70.jpg",
+    "file": "store/70.jpg",
     "name": "Self Portrait 3",
     "year": "2018",
     "tags": [
@@ -690,7 +690,7 @@
     ]
   },
   {
-    "file": "71.jpg",
+    "file": "store/71.jpg",
     "name": "Policeman",
     "year": "2018",
     "tags": [
@@ -699,7 +699,7 @@
     ]
   },
   {
-    "file": "72.jpg",
+    "file": "store/72.jpg",
     "name": "A girl in rain",
     "year": "2011",
     "tags": [
@@ -709,7 +709,7 @@
     ]
   },
   {
-    "file": "73.jpg",
+    "file": "store/73.jpg",
     "name": "Waiting woman",
     "year": "2018",
     "tags": [
@@ -718,7 +718,7 @@
     ]
   },
   {
-    "file": "74.jpg",
+    "file": "store/74.jpg",
     "name": "A rock",
     "year": "2011",
     "tags": [
@@ -727,7 +727,7 @@
     ]
   },
   {
-    "file": "75.jpg",
+    "file": "store/75.jpg",
     "name": "Study of a model",
     "year": "2018",
     "tags": [
@@ -736,7 +736,7 @@
     ]
   },
   {
-    "file": "76.jpg",
+    "file": "store/76.jpg",
     "name": "Not my cup of tea",
     "year": "2019",
     "tags": [
@@ -746,7 +746,7 @@
     ]
   },
   {
-    "file": "77.jpg",
+    "file": "store/77.jpg",
     "name": "Reading corner",
     "year": "2019",
     "tags": [
@@ -756,7 +756,7 @@
     ]
   },
   {
-    "file": "78.jpg",
+    "file": "store/78.jpg",
     "name": "Self Portrait 4",
     "year": "2019",
     "tags": [
@@ -765,7 +765,7 @@
     ]
   },
   {
-    "file": "79.jpg",
+    "file": "store/79.jpg",
     "name": "Old vendor on the street",
     "year": "2019",
     "tags": [
@@ -774,7 +774,7 @@
     ]
   },
   {
-    "file": "80.jpg",
+    "file": "store/80.jpg",
     "name": "Young couple",
     "year": "2019",
     "tags": [
@@ -784,7 +784,7 @@
     ]
   },
   {
-    "file": "81.jpg",
+    "file": "store/81.jpg",
     "name": "The majestic cock",
     "year": "2019",
     "tags": [
@@ -794,7 +794,7 @@
     ]
   },
   {
-    "file": "82.jpg",
+    "file": "store/82.jpg",
     "name": "Old tea seller",
     "year": "2019",
     "tags": [
@@ -803,7 +803,7 @@
     ]
   },
   {
-    "file": "83.jpg",
+    "file": "store/83.jpg",
     "name": "Study of a face 3",
     "year": "2019",
     "tags": [
@@ -813,7 +813,7 @@
     ]
   },
   {
-    "file": "84.jpg",
+    "file": "store/84.jpg",
     "name": "Working woman",
     "year": "2019",
     "tags": [
@@ -824,7 +824,7 @@
     ]
   },
   {
-    "file": "85.jpg",
+    "file": "store/85.jpg",
     "name": "Woman taking rest",
     "year": "2019",
     "tags": [
@@ -834,7 +834,7 @@
     ]
   },
   {
-    "file": "86.jpg",
+    "file": "store/86.jpg",
     "name": "Woman from behind",
     "year": "2019",
     "tags": [
@@ -844,7 +844,7 @@
     ]
   },
   {
-    "file": "87.jpg",
+    "file": "store/87.jpg",
     "name": "Study of a face 4",
     "year": "2019",
     "tags": [
@@ -854,7 +854,7 @@
     ]
   },
   {
-    "file": "88.jpg",
+    "file": "store/88.jpg",
     "name": "A manor house",
     "year": "2019",
     "tags": [
@@ -864,7 +864,7 @@
     ]
   },
   {
-    "file": "89.jpg",
+    "file": "store/89.jpg",
     "name": "Knight on horse",
     "year": "2019",
     "tags": [
@@ -874,7 +874,7 @@
     ]
   },
   {
-    "file": "90.jpg",
+    "file": "store/90.jpg",
     "name": "Bill Ferny from LOTR",
     "year": "2012",
     "tags": [
@@ -884,7 +884,7 @@
     ]
   },
   {
-    "file": "91.jpg",
+    "file": "store/91.jpg",
     "name": "Girl in armchair",
     "year": "2019",
     "tags": [
@@ -894,7 +894,7 @@
     ]
   },
   {
-    "file": "92.jpg",
+    "file": "store/92.jpg",
     "name": "Woman on a chair",
     "year": "2019",
     "tags": [
@@ -904,7 +904,7 @@
     ]
   },
   {
-    "file": "93.jpg",
+    "file": "store/93.jpg",
     "name": "Sketch of a rhino",
     "year": "2019",
     "tags": [
@@ -914,7 +914,7 @@
     ]
   },
   {
-    "file": "94.jpg",
+    "file": "store/94.jpg",
     "name": "Sketch of a hunter",
     "year": "2019",
     "tags": [
@@ -924,7 +924,7 @@
     ]
   },
   {
-    "file": "95.jpg",
+    "file": "store/95.jpg",
     "name": "Sketch of a dog",
     "year": "2019",
     "tags": [
@@ -934,7 +934,7 @@
     ]
   },
   {
-    "file": "96.jpg",
+    "file": "store/96.jpg",
     "name": "Sketch of a martial artist",
     "year": "2019",
     "tags": [
@@ -944,7 +944,7 @@
     ]
   },
   {
-    "file": "97.jpg",
+    "file": "store/97.jpg",
     "name": "Study of a face 5",
     "year": "2019",
     "tags": [
@@ -954,7 +954,7 @@
     ]
   },
   {
-    "file": "98.jpg",
+    "file": "store/98.jpg",
     "name": "Study of force (Pull)",
     "year": "2019",
     "tags": [
@@ -964,7 +964,7 @@
     ]
   },
   {
-    "file": "99.jpg",
+    "file": "store/99.jpg",
     "name": "Sketch of a stag (running)",
     "year": "2019",
     "tags": [
@@ -974,7 +974,7 @@
     ]
   },
   {
-    "file": "100.jpg",
+    "file": "store/100.jpg",
     "name": "Sketch of Odishi dancer",
     "year": "2019",
     "tags": [
@@ -984,7 +984,7 @@
     ]
   },
   {
-    "file": "101.jpg",
+    "file": "store/101.jpg",
     "name": "Sketch of Odishi dancer 2",
     "year": "2019",
     "tags": [
@@ -994,7 +994,7 @@
     ]
   },
   {
-    "file": "102.jpg",
+    "file": "store/102.jpg",
     "name": "Sketch of Odishi dancer 3",
     "year": "2019",
     "tags": [
@@ -1004,7 +1004,7 @@
     ]
   },
   {
-    "file": "103.jpg",
+    "file": "store/103.jpg",
     "name": "Sketch of a ballet dancer",
     "year": "2019",
     "tags": [
@@ -1013,7 +1013,7 @@
     ]
   },
   {
-    "file": "104.jpg",
+    "file": "store/104.jpg",
     "name": "Study of a woman's face 2",
     "year": "2019",
     "tags": [
@@ -1022,7 +1022,7 @@
     ]
   },
   {
-    "file": "105.jpg",
+    "file": "store/105.jpg",
     "name": "Study of a face 6",
     "year": "2019",
     "tags": [
@@ -1032,7 +1032,7 @@
     ]
   },
   {
-    "file": "106.jpg",
+    "file": "store/106.jpg",
     "name": "Portrait of Naveen Patnaik",
     "year": "2019",
     "tags": [
@@ -1041,7 +1041,7 @@
     ]
   },
   {
-    "file": "107.jpg",
+    "file": "store/107.jpg",
     "name": "Sketch of a kingfisher",
     "year": "2019",
     "tags": [
@@ -1050,7 +1050,7 @@
     ]
   },
   {
-    "file": "108.jpg",
+    "file": "store/108.jpg",
     "name": "Sketch of a hen with chick",
     "year": "2019",
     "tags": [
@@ -1059,7 +1059,7 @@
     ]
   },
   {
-    "file": "109.jpg",
+    "file": "store/109.jpg",
     "name": "Sketch of a bird",
     "year": "2019",
     "tags": [
@@ -1068,7 +1068,7 @@
     ]
   },
   {
-    "file": "110.jpg",
+    "file": "store/110.jpg",
     "name": "Study of a lamp",
     "year": "2019",
     "tags": [
@@ -1077,7 +1077,7 @@
     ]
   },
   {
-    "file": "111.jpg",
+    "file": "store/111.jpg",
     "name": "Feanor",
     "year": "2019",
     "tags": [
@@ -1086,7 +1086,7 @@
     ]
   },
   {
-    "file": "112.jpg",
+    "file": "store/112.jpg",
     "name": "Woman with umbrella",
     "year": "2019",
     "tags": [
@@ -1096,7 +1096,7 @@
     ]
   },
   {
-    "file": "113.jpg",
+    "file": "store/113.jpg",
     "name": "Woman, meditating",
     "year": "2019",
     "tags": [
@@ -1105,7 +1105,7 @@
     ]
   },
   {
-    "file": "114.jpg",
+    "file": "store/114.jpg",
     "name": "Child face with curiosity",
     "year": "2019",
     "tags": [
@@ -1114,7 +1114,7 @@
     ]
   },
   {
-    "file": "115.jpg",
+    "file": "store/115.jpg",
     "name": "Study of a face 7",
     "year": "2019",
     "tags": [
@@ -1123,7 +1123,7 @@
     ]
   },
   {
-    "file": "116.jpg",
+    "file": "store/116.jpg",
     "name": "John Wick",
     "year": "2019",
     "tags": [
@@ -1132,7 +1132,7 @@
     ]
   },
   {
-    "file": "117.jpg",
+    "file": "store/117.jpg",
     "name": "Portrait of Neha",
     "year": "2019",
     "tags": [
@@ -1141,7 +1141,7 @@
     ]
   },
   {
-    "file": "118.jpg",
+    "file": "store/118.jpg",
     "name": "Demon (face)",
     "year": "2019",
     "tags": [
@@ -1150,7 +1150,7 @@
     ]
   },
   {
-    "file": "119.jpg",
+    "file": "store/119.jpg",
     "name": "Fingolfin vs Morgoth",
     "year": "2019",
     "tags": [
@@ -1159,7 +1159,7 @@
     ]
   },
   {
-    "file": "120.jpg",
+    "file": "store/120.jpg",
     "name": "Demon (face) 2",
     "year": "2019",
     "tags": [
@@ -1169,7 +1169,7 @@
     ]
   },
   {
-    "file": "121.jpg",
+    "file": "store/121.jpg",
     "name": "Football player",
     "year": "2019",
     "tags": [
@@ -1178,7 +1178,7 @@
     ]
   },
   {
-    "file": "122.jpg",
+    "file": "store/122.jpg",
     "name": "Sketch of a dog 2",
     "year": "2019",
     "tags": [
@@ -1187,7 +1187,7 @@
     ]
   },
   {
-    "file": "123.jpg",
+    "file": "store/123.jpg",
     "name": "Study of a handpump",
     "year": "2019",
     "tags": [
@@ -1196,7 +1196,7 @@
     ]
   },
   {
-    "file": "124.jpg",
+    "file": "store/124.jpg",
     "name": "Exotic bird",
     "year": "2019",
     "tags": [
@@ -1205,7 +1205,7 @@
     ]
   },
   {
-    "file": "125.jpg",
+    "file": "store/125.jpg",
     "name": "Old woman at work",
     "year": "2019",
     "tags": [
@@ -1214,7 +1214,7 @@
     ]
   },
   {
-    "file": "126.jpg",
+    "file": "store/126.jpg",
     "name": "Sketch of red fox",
     "year": "2019",
     "tags": [
@@ -1223,7 +1223,7 @@
     ]
   },
   {
-    "file": "127.jpg",
+    "file": "store/127.jpg",
     "name": "Sketch of an elephant",
     "year": "2019",
     "tags": [
@@ -1232,7 +1232,7 @@
     ]
   },
   {
-    "file": "128.jpg",
+    "file": "store/128.jpg",
     "name": "Portrait of Alaka 2",
     "year": "2019",
     "tags": [
@@ -1242,7 +1242,7 @@
     ]
   },
   {
-    "file": "129.jpg",
+    "file": "store/129.jpg",
     "name": "Birds",
     "year": "2019",
     "tags": [
@@ -1251,7 +1251,7 @@
     ]
   },
   {
-    "file": "130.jpg",
+    "file": "store/130.jpg",
     "name": "Study of a woman 2",
     "year": "2019",
     "tags": [
@@ -1260,7 +1260,7 @@
     ]
   },
   {
-    "file": "131.jpg",
+    "file": "store/131.jpg",
     "name": "Bag End",
     "year": "2019",
     "tags": [
@@ -1269,7 +1269,7 @@
     ]
   },
   {
-    "file": "132.jpg",
+    "file": "store/132.jpg",
     "name": "A round cottage",
     "year": "2019",
     "tags": [
@@ -1278,7 +1278,7 @@
     ]
   },
   {
-    "file": "133.jpg",
+    "file": "store/133.jpg",
     "name": "Study of a face 8",
     "year": "2019",
     "tags": [
@@ -1287,7 +1287,7 @@
     ]
   },
   {
-    "file": "134.jpg",
+    "file": "store/134.jpg",
     "name": "A cottage",
     "year": "2019",
     "tags": [
@@ -1296,7 +1296,7 @@
     ]
   },
   {
-    "file": "135.jpg",
+    "file": "store/135.jpg",
     "name": "Old book seller",
     "year": "2019",
     "tags": [
@@ -1305,7 +1305,7 @@
     ]
   },
   {
-    "file": "136.jpg",
+    "file": "store/136.jpg",
     "name": "Woman with a vase",
     "year": "2019",
     "tags": [
@@ -1314,7 +1314,7 @@
     ]
   },
   {
-    "file": "137.jpg",
+    "file": "store/137.jpg",
     "name": "Sketch of a fish",
     "year": "2019",
     "tags": [
@@ -1323,7 +1323,7 @@
     ]
   },
   {
-    "file": "138.jpg",
+    "file": "store/138.jpg",
     "name": "Sketch of a swan",
     "year": "2019",
     "tags": [
@@ -1332,7 +1332,7 @@
     ]
   },
   {
-    "file": "139.jpg",
+    "file": "store/139.jpg",
     "name": "Yellow taxi",
     "year": "2019",
     "tags": [
@@ -1341,7 +1341,7 @@
     ]
   },
   {
-    "file": "140.jpg",
+    "file": "store/140.jpg",
     "name": "Sketch of a lion",
     "year": "2019",
     "tags": [
@@ -1350,7 +1350,7 @@
     ]
   },
   {
-    "file": "141.jpg",
+    "file": "store/141.jpg",
     "name": "Nataraj statue",
     "year": "2019",
     "tags": [
@@ -1361,7 +1361,7 @@
     ]
   },
   {
-    "file": "142.jpg",
+    "file": "store/142.jpg",
     "name": "Little man",
     "year": "2019",
     "tags": [
@@ -1370,7 +1370,7 @@
     ]
   },
   {
-    "file": "143.jpg",
+    "file": "store/143.jpg",
     "name": "Indian bull",
     "year": "2019",
     "tags": [
@@ -1379,7 +1379,7 @@
     ]
   },
   {
-    "file": "144.jpg",
+    "file": "store/144.jpg",
     "name": "Study of a face 9",
     "year": "2019",
     "tags": [
@@ -1390,7 +1390,7 @@
     ]
   },
   {
-    "file": "145.jpg",
+    "file": "store/145.jpg",
     "name": "Sketch of a puppy",
     "year": "2019",
     "tags": [
@@ -1399,7 +1399,7 @@
     ]
   },
   {
-    "file": "146.jpg",
+    "file": "store/146.jpg",
     "name": "Study of a watering can",
     "year": "2019",
     "tags": [
@@ -1409,7 +1409,7 @@
     ]
   },
   {
-    "file": "147.jpg",
+    "file": "store/147.jpg",
     "name": "Sketch of a camel",
     "year": "2019",
     "tags": [
@@ -1418,7 +1418,7 @@
     ]
   },
   {
-    "file": "148.jpg",
+    "file": "store/148.jpg",
     "name": "An Elephant",
     "year": "2019",
     "tags": [
@@ -1427,7 +1427,7 @@
     ]
   },
   {
-    "file": "149.jpg",
+    "file": "store/149.jpg",
     "name": "Gandalf",
     "year": "2019",
     "tags": [
@@ -1438,7 +1438,7 @@
     ]
   },
   {
-    "file": "150.jpg",
+    "file": "store/150.jpg",
     "name": "Sketch of a mountain goat 2",
     "year": "2019",
     "tags": [
@@ -1447,7 +1447,7 @@
     ]
   },
   {
-    "file": "151.jpg",
+    "file": "store/151.jpg",
     "name": "Horse jumping over a stile",
     "year": "2019",
     "tags": [
@@ -1456,7 +1456,7 @@
     ]
   },
   {
-    "file": "152.jpg",
+    "file": "store/152.jpg",
     "name": "Face of a tribal lady",
     "year": "2019",
     "tags": [
@@ -1465,7 +1465,7 @@
     ]
   },
   {
-    "file": "153.jpg",
+    "file": "store/153.jpg",
     "name": "The Mukteswar arch (Bhubaneswar)",
     "year": "2019",
     "tags": [
@@ -1474,7 +1474,7 @@
     ]
   },
   {
-    "file": "154.jpg",
+    "file": "store/154.jpg",
     "name": "The majestic cock 2",
     "year": "2019",
     "tags": [
@@ -1483,7 +1483,7 @@
     ]
   },
   {
-    "file": "155.jpg",
+    "file": "store/155.jpg",
     "name": "Cersie Lannister",
     "year": "2019",
     "tags": [
@@ -1492,7 +1492,7 @@
     ]
   },
   {
-    "file": "156.jpg",
+    "file": "store/156.jpg",
     "name": "Dusk and river",
     "year": "2019",
     "tags": [
@@ -1501,7 +1501,7 @@
     ]
   },
   {
-    "file": "157.jpg",
+    "file": "store/157.jpg",
     "name": "Father and son, Independence day",
     "year": "2019",
     "tags": [
@@ -1510,7 +1510,7 @@
     ]
   },
   {
-    "file": "158.jpg",
+    "file": "store/158.jpg",
     "name": "Indian bull 2",
     "year": "2019",
     "tags": [
@@ -1519,7 +1519,7 @@
     ]
   },
   {
-    "file": "159.jpg",
+    "file": "store/159.jpg",
     "name": "Portrait of Sushma Swaraj",
     "year": "2019",
     "tags": [
@@ -1528,7 +1528,7 @@
     ]
   },
   {
-    "file": "160.jpg",
+    "file": "store/160.jpg",
     "name": "Study of a woman's face 3",
     "year": "2019",
     "tags": [
@@ -1537,7 +1537,7 @@
     ]
   },
   {
-    "file": "161.jpg",
+    "file": "store/161.jpg",
     "name": "Castle against a blue sky",
     "year": "2019",
     "tags": [
@@ -1546,7 +1546,7 @@
     ]
   },
   {
-    "file": "162.jpg",
+    "file": "store/162.jpg",
     "name": "Hindu monk",
     "year": "2019",
     "tags": [
@@ -1555,7 +1555,7 @@
     ]
   },
   {
-    "file": "163.jpg",
+    "file": "store/163.jpg",
     "name": "Harry Potter with Hedwig",
     "year": "2019",
     "tags": [
@@ -1564,7 +1564,7 @@
     ]
   },
   {
-    "file": "164.jpg",
+    "file": "store/164.jpg",
     "name": "Ashwatthama",
     "year": "2019",
     "tags": [
@@ -1573,7 +1573,7 @@
     ]
   },
   {
-    "file": "165.jpg",
+    "file": "store/165.jpg",
     "name": "Study of a face 10",
     "year": "2019",
     "tags": [
@@ -1582,7 +1582,7 @@
     ]
   },
   {
-    "file": "166.jpg",
+    "file": "store/166.jpg",
     "name": "Happy old man",
     "year": "2019",
     "tags": [
@@ -1591,7 +1591,7 @@
     ]
   },
   {
-    "file": "167.jpg",
+    "file": "store/167.jpg",
     "name": "Desert (abstract)",
     "year": "2011",
     "tags": [
@@ -1600,7 +1600,7 @@
     ]
   },
   {
-    "file": "168.jpg",
+    "file": "store/168.jpg",
     "name": "Portrait of Fakir Mohan",
     "year": "2019",
     "tags": [
@@ -1609,7 +1609,7 @@
     ]
   },
   {
-    "file": "169.jpg",
+    "file": "store/169.jpg",
     "name": "Portrait of an Odishi dancer",
     "year": "2019",
     "tags": [
@@ -1618,7 +1618,7 @@
     ]
   },
   {
-    "file": "170.jpg",
+    "file": "store/170.jpg",
     "name": "Ganesha",
     "year": "2019",
     "tags": [
@@ -1627,7 +1627,7 @@
     ]
   },
   {
-    "file": "171.jpg",
+    "file": "store/171.jpg",
     "name": "Night and Day",
     "year": "2012",
     "tags": [
@@ -1636,7 +1636,7 @@
     ]
   },
   {
-    "file": "172.jpg",
+    "file": "store/172.jpg",
     "name": "Sketch of a road",
     "year": "2019",
     "tags": [
