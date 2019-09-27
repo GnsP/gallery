@@ -8,7 +8,8 @@
       "digitalart"
     ],
     "sm": "sm/0.jpg",
-    "md": "md/0.jpg"
+    "md": "md/0.jpg",
+    "lg": "lg/0.jpg"
   },
   {
     "file": "store/1.jpg",
@@ -20,7 +21,8 @@
       "digitalart"
     ],
     "sm": "sm/1.jpg",
-    "md": "md/1.jpg"
+    "md": "md/1.jpg",
+    "lg": "lg/1.jpg"
   },
   {
     "file": "store/2.jpg",
@@ -32,7 +34,8 @@
       "digitalart"
     ],
     "sm": "sm/2.jpg",
-    "md": "md/2.jpg"
+    "md": "md/2.jpg",
+    "lg": "lg/2.jpg"
   },
   {
     "file": "store/3.jpg",
@@ -44,7 +47,8 @@
       "digitalart"
     ],
     "sm": "sm/3.jpg",
-    "md": "md/3.jpg"
+    "md": "md/3.jpg",
+    "lg": "lg/3.jpg"
   },
   {
     "file": "store/4.jpg",
@@ -56,7 +60,8 @@
       "digitalart"
     ],
     "sm": "sm/4.jpg",
-    "md": "md/4.jpg"
+    "md": "md/4.jpg",
+    "lg": "lg/4.jpg"
   },
   {
     "file": "store/5.jpg",
@@ -69,7 +74,8 @@
       "hacker"
     ],
     "sm": "sm/5.jpg",
-    "md": "md/5.jpg"
+    "md": "md/5.jpg",
+    "lg": "lg/5.jpg"
   },
   {
     "file": "store/6.jpg",
@@ -81,7 +87,8 @@
       "digitalart"
     ],
     "sm": "sm/6.jpg",
-    "md": "md/6.jpg"
+    "md": "md/6.jpg",
+    "lg": "lg/6.jpg"
   },
   {
     "file": "store/7.jpg",
@@ -93,7 +100,8 @@
       "digitalart"
     ],
     "sm": "sm/7.jpg",
-    "md": "md/7.jpg"
+    "md": "md/7.jpg",
+    "lg": "lg/7.jpg"
   },
   {
     "file": "store/8.jpg",
@@ -105,7 +113,8 @@
       "digitalart"
     ],
     "sm": "sm/8.jpg",
-    "md": "md/8.jpg"
+    "md": "md/8.jpg",
+    "lg": "lg/8.jpg"
   },
   {
     "file": "store/9.jpg",
@@ -116,7 +125,8 @@
       "canvas"
     ],
     "sm": "sm/9.jpg",
-    "md": "md/9.jpg"
+    "md": "md/9.jpg",
+    "lg": "lg/9.jpg"
   },
   {
     "file": "store/10.jpg",
@@ -128,7 +138,8 @@
       "digitalart"
     ],
     "sm": "sm/10.jpg",
-    "md": "md/10.jpg"
+    "md": "md/10.jpg",
+    "lg": "lg/10.jpg"
   },
   {
     "file": "store/11.jpg",
@@ -140,7 +151,8 @@
       "digitalart"
     ],
     "sm": "sm/11.jpg",
-    "md": "md/11.jpg"
+    "md": "md/11.jpg",
+    "lg": "lg/11.jpg"
   },
   {
     "file": "store/12.jpg",
@@ -152,7 +164,8 @@
       "digitalart"
     ],
     "sm": "sm/12.jpg",
-    "md": "md/12.jpg"
+    "md": "md/12.jpg",
+    "lg": "lg/12.jpg"
   },
   {
     "file": "store/13.jpg",
@@ -164,7 +177,8 @@
       "digitalart"
     ],
     "sm": "sm/13.jpg",
-    "md": "md/13.jpg"
+    "md": "md/13.jpg",
+    "lg": "lg/13.jpg"
   },
   {
     "file": "store/14.jpg",
@@ -176,7 +190,8 @@
       "digitalart"
     ],
     "sm": "sm/14.jpg",
-    "md": "md/14.jpg"
+    "md": "md/14.jpg",
+    "lg": "lg/14.jpg"
   },
   {
     "file": "store/15.jpg",
@@ -187,7 +202,8 @@
       "newspaper"
     ],
     "sm": "sm/15.jpg",
-    "md": "md/15.jpg"
+    "md": "md/15.jpg",
+    "lg": "lg/15.jpg"
   },
   {
     "file": "store/16.jpg",
@@ -199,7 +215,8 @@
       "digitalart"
     ],
     "sm": "sm/16.jpg",
-    "md": "md/16.jpg"
+    "md": "md/16.jpg",
+    "lg": "lg/16.jpg"
   },
   {
     "file": "store/17.jpg",
@@ -211,7 +228,8 @@
       "sketchbook"
     ],
     "sm": "sm/17.jpg",
-    "md": "md/17.jpg"
+    "md": "md/17.jpg",
+    "lg": "lg/17.jpg"
   },
   {
     "file": "store/18.jpg",
@@ -223,7 +241,8 @@
       "digitalart"
     ],
     "sm": "sm/18.jpg",
-    "md": "md/18.jpg"
+    "md": "md/18.jpg",
+    "lg": "lg/18.jpg"
   },
   {
     "file": "store/19.jpg",
@@ -235,7 +254,8 @@
       "sketchbook"
     ],
     "sm": "sm/19.jpg",
-    "md": "md/19.jpg"
+    "md": "md/19.jpg",
+    "lg": "lg/19.jpg"
   },
   {
     "file": "store/20.jpg",
@@ -247,7 +267,8 @@
       "digitalart"
     ],
     "sm": "sm/20.jpg",
-    "md": "md/20.jpg"
+    "md": "md/20.jpg",
+    "lg": "lg/20.jpg"
   },
   {
     "file": "store/21.jpg",
@@ -259,7 +280,8 @@
       "digitalart"
     ],
     "sm": "sm/21.jpg",
-    "md": "md/21.jpg"
+    "md": "md/21.jpg",
+    "lg": "lg/21.jpg"
   },
   {
     "file": "store/22.jpg",
@@ -271,7 +293,8 @@
       "digitalart"
     ],
     "sm": "sm/22.jpg",
-    "md": "md/22.jpg"
+    "md": "md/22.jpg",
+    "lg": "lg/22.jpg"
   },
   {
     "file": "store/23.jpg",
@@ -283,7 +306,8 @@
       "sketchbook"
     ],
     "sm": "sm/23.jpg",
-    "md": "md/23.jpg"
+    "md": "md/23.jpg",
+    "lg": "lg/23.jpg"
   },
   {
     "file": "store/24.jpg",
@@ -295,7 +319,8 @@
       "sketchbook"
     ],
     "sm": "sm/24.jpg",
-    "md": "md/24.jpg"
+    "md": "md/24.jpg",
+    "lg": "lg/24.jpg"
   },
   {
     "file": "store/25.jpg",
@@ -306,7 +331,8 @@
       "digitalart"
     ],
     "sm": "sm/25.jpg",
-    "md": "md/25.jpg"
+    "md": "md/25.jpg",
+    "lg": "lg/25.jpg"
   },
   {
     "file": "store/26.jpg",
@@ -317,7 +343,8 @@
       "digitalart"
     ],
     "sm": "sm/26.jpg",
-    "md": "md/26.jpg"
+    "md": "md/26.jpg",
+    "lg": "lg/26.jpg"
   },
   {
     "file": "store/27.jpg",
@@ -328,7 +355,8 @@
       "sketchbook"
     ],
     "sm": "sm/27.jpg",
-    "md": "md/27.jpg"
+    "md": "md/27.jpg",
+    "lg": "lg/27.jpg"
   },
   {
     "file": "store/28.jpg",
@@ -340,7 +368,8 @@
       "digitalart"
     ],
     "sm": "sm/28.jpg",
-    "md": "md/28.jpg"
+    "md": "md/28.jpg",
+    "lg": "lg/28.jpg"
   },
   {
     "file": "store/29.jpg",
@@ -352,7 +381,8 @@
       "digitalart"
     ],
     "sm": "sm/29.jpg",
-    "md": "md/29.jpg"
+    "md": "md/29.jpg",
+    "lg": "lg/29.jpg"
   },
   {
     "file": "store/30.jpg",
@@ -364,7 +394,8 @@
       "digitalart"
     ],
     "sm": "sm/30.jpg",
-    "md": "md/30.jpg"
+    "md": "md/30.jpg",
+    "lg": "lg/30.jpg"
   },
   {
     "file": "store/31.jpg",
@@ -375,7 +406,8 @@
       "sketchbook"
     ],
     "sm": "sm/31.jpg",
-    "md": "md/31.jpg"
+    "md": "md/31.jpg",
+    "lg": "lg/31.jpg"
   },
   {
     "file": "store/32.jpg",
@@ -386,7 +418,8 @@
       "sketchbook"
     ],
     "sm": "sm/32.jpg",
-    "md": "md/32.jpg"
+    "md": "md/32.jpg",
+    "lg": "lg/32.jpg"
   },
   {
     "file": "store/33.jpg",
@@ -398,7 +431,8 @@
       "digitalart"
     ],
     "sm": "sm/33.jpg",
-    "md": "md/33.jpg"
+    "md": "md/33.jpg",
+    "lg": "lg/33.jpg"
   },
   {
     "file": "store/34.jpg",
@@ -410,7 +444,8 @@
       "digitalart"
     ],
     "sm": "sm/34.jpg",
-    "md": "md/34.jpg"
+    "md": "md/34.jpg",
+    "lg": "lg/34.jpg"
   },
   {
     "file": "store/35.jpg",
@@ -422,7 +457,8 @@
       "sketchbook"
     ],
     "sm": "sm/35.jpg",
-    "md": "md/35.jpg"
+    "md": "md/35.jpg",
+    "lg": "lg/35.jpg"
   },
   {
     "file": "store/36.jpg",
@@ -433,7 +469,8 @@
       "postercolour"
     ],
     "sm": "sm/36.jpg",
-    "md": "md/36.jpg"
+    "md": "md/36.jpg",
+    "lg": "lg/36.jpg"
   },
   {
     "file": "store/37.jpg",
@@ -445,7 +482,8 @@
       "sketchbook"
     ],
     "sm": "sm/37.jpg",
-    "md": "md/37.jpg"
+    "md": "md/37.jpg",
+    "lg": "lg/37.jpg"
   },
   {
     "file": "store/38.jpg",
@@ -456,7 +494,8 @@
       "sketchbook"
     ],
     "sm": "sm/38.jpg",
-    "md": "md/38.jpg"
+    "md": "md/38.jpg",
+    "lg": "lg/38.jpg"
   },
   {
     "file": "store/39.jpg",
@@ -467,7 +506,8 @@
       "digitalart"
     ],
     "sm": "sm/39.jpg",
-    "md": "md/39.jpg"
+    "md": "md/39.jpg",
+    "lg": "lg/39.jpg"
   },
   {
     "file": "store/40.jpg",
@@ -478,7 +518,8 @@
       "sketchbook"
     ],
     "sm": "sm/40.jpg",
-    "md": "md/40.jpg"
+    "md": "md/40.jpg",
+    "lg": "lg/40.jpg"
   },
   {
     "file": "store/41.jpg",
@@ -489,7 +530,8 @@
       "canvas"
     ],
     "sm": "sm/41.jpg",
-    "md": "md/41.jpg"
+    "md": "md/41.jpg",
+    "lg": "lg/41.jpg"
   },
   {
     "file": "store/42.jpg",
@@ -501,7 +543,8 @@
       "sketchbook"
     ],
     "sm": "sm/42.jpg",
-    "md": "md/42.jpg"
+    "md": "md/42.jpg",
+    "lg": "lg/42.jpg"
   },
   {
     "file": "store/43.jpg",
@@ -513,7 +556,8 @@
       "sketchbook"
     ],
     "sm": "sm/43.jpg",
-    "md": "md/43.jpg"
+    "md": "md/43.jpg",
+    "lg": "lg/43.jpg"
   },
   {
     "file": "store/44.jpg",
@@ -525,7 +569,8 @@
       "sketchbook"
     ],
     "sm": "sm/44.jpg",
-    "md": "md/44.jpg"
+    "md": "md/44.jpg",
+    "lg": "lg/44.jpg"
   },
   {
     "file": "store/45.jpg",
@@ -537,7 +582,8 @@
       "sketchbook"
     ],
     "sm": "sm/45.jpg",
-    "md": "md/45.jpg"
+    "md": "md/45.jpg",
+    "lg": "lg/45.jpg"
   },
   {
     "file": "store/46.jpg",
@@ -549,7 +595,8 @@
       "sketchbook"
     ],
     "sm": "sm/46.jpg",
-    "md": "md/46.jpg"
+    "md": "md/46.jpg",
+    "lg": "lg/46.jpg"
   },
   {
     "file": "store/47.jpg",
@@ -561,7 +608,8 @@
       "sketchbook"
     ],
     "sm": "sm/47.jpg",
-    "md": "md/47.jpg"
+    "md": "md/47.jpg",
+    "lg": "lg/47.jpg"
   },
   {
     "file": "store/48.jpg",
@@ -573,7 +621,8 @@
       "sketchbook"
     ],
     "sm": "sm/48.jpg",
-    "md": "md/48.jpg"
+    "md": "md/48.jpg",
+    "lg": "lg/48.jpg"
   },
   {
     "file": "store/49.jpg",
@@ -585,7 +634,8 @@
       "sketchbook"
     ],
     "sm": "sm/49.jpg",
-    "md": "md/49.jpg"
+    "md": "md/49.jpg",
+    "lg": "lg/49.jpg"
   },
   {
     "file": "store/50.jpg",
@@ -597,7 +647,8 @@
       "sketchbook"
     ],
     "sm": "sm/50.jpg",
-    "md": "md/50.jpg"
+    "md": "md/50.jpg",
+    "lg": "lg/50.jpg"
   },
   {
     "file": "store/51.jpg",
@@ -609,7 +660,8 @@
       "sketchbook"
     ],
     "sm": "sm/51.jpg",
-    "md": "md/51.jpg"
+    "md": "md/51.jpg",
+    "lg": "lg/51.jpg"
   },
   {
     "file": "store/52.jpg",
@@ -621,7 +673,8 @@
       "sketchbook"
     ],
     "sm": "sm/52.jpg",
-    "md": "md/52.jpg"
+    "md": "md/52.jpg",
+    "lg": "lg/52.jpg"
   },
   {
     "file": "store/53.jpg",
@@ -634,7 +687,8 @@
       "pen"
     ],
     "sm": "sm/53.jpg",
-    "md": "md/53.jpg"
+    "md": "md/53.jpg",
+    "lg": "lg/53.jpg"
   },
   {
     "file": "store/54.jpg",
@@ -646,7 +700,8 @@
       "sketchbook"
     ],
     "sm": "sm/54.jpg",
-    "md": "md/54.jpg"
+    "md": "md/54.jpg",
+    "lg": "lg/54.jpg"
   },
   {
     "file": "store/55.jpg",
@@ -658,7 +713,8 @@
       "sketchbook"
     ],
     "sm": "sm/55.jpg",
-    "md": "md/55.jpg"
+    "md": "md/55.jpg",
+    "lg": "lg/55.jpg"
   },
   {
     "file": "store/56.jpg",
@@ -670,7 +726,8 @@
       "paper"
     ],
     "sm": "sm/56.jpg",
-    "md": "md/56.jpg"
+    "md": "md/56.jpg",
+    "lg": "lg/56.jpg"
   },
   {
     "file": "store/57.jpg",
@@ -681,7 +738,8 @@
       "digitalart"
     ],
     "sm": "sm/57.jpg",
-    "md": "md/57.jpg"
+    "md": "md/57.jpg",
+    "lg": "lg/57.jpg"
   },
   {
     "file": "store/58.jpg",
@@ -692,7 +750,8 @@
       "canvas"
     ],
     "sm": "sm/58.jpg",
-    "md": "md/58.jpg"
+    "md": "md/58.jpg",
+    "lg": "lg/58.jpg"
   },
   {
     "file": "store/59.jpg",
@@ -703,7 +762,8 @@
       "canvas"
     ],
     "sm": "sm/59.jpg",
-    "md": "md/59.jpg"
+    "md": "md/59.jpg",
+    "lg": "lg/59.jpg"
   },
   {
     "file": "store/60.jpg",
@@ -714,7 +774,8 @@
       "canvas"
     ],
     "sm": "sm/60.jpg",
-    "md": "md/60.jpg"
+    "md": "md/60.jpg",
+    "lg": "lg/60.jpg"
   },
   {
     "file": "store/61.jpg",
@@ -726,7 +787,8 @@
       "paper"
     ],
     "sm": "sm/61.jpg",
-    "md": "md/61.jpg"
+    "md": "md/61.jpg",
+    "lg": "lg/61.jpg"
   },
   {
     "file": "store/62.jpg",
@@ -737,7 +799,8 @@
       "canvas"
     ],
     "sm": "sm/62.jpg",
-    "md": "md/62.jpg"
+    "md": "md/62.jpg",
+    "lg": "lg/62.jpg"
   },
   {
     "file": "store/63.jpg",
@@ -748,7 +811,8 @@
       "canvas"
     ],
     "sm": "sm/63.jpg",
-    "md": "md/63.jpg"
+    "md": "md/63.jpg",
+    "lg": "lg/63.jpg"
   },
   {
     "file": "store/64.jpg",
@@ -759,7 +823,8 @@
       "canvas"
     ],
     "sm": "sm/64.jpg",
-    "md": "md/64.jpg"
+    "md": "md/64.jpg",
+    "lg": "lg/64.jpg"
   },
   {
     "file": "store/65.jpg",
@@ -770,7 +835,8 @@
       "canvas"
     ],
     "sm": "sm/65.jpg",
-    "md": "md/65.jpg"
+    "md": "md/65.jpg",
+    "lg": "lg/65.jpg"
   },
   {
     "file": "store/66.jpg",
@@ -782,7 +848,8 @@
       "sketchbook"
     ],
     "sm": "sm/66.jpg",
-    "md": "md/66.jpg"
+    "md": "md/66.jpg",
+    "lg": "lg/66.jpg"
   },
   {
     "file": "store/67.jpg",
@@ -793,7 +860,8 @@
       "canvas"
     ],
     "sm": "sm/67.jpg",
-    "md": "md/67.jpg"
+    "md": "md/67.jpg",
+    "lg": "lg/67.jpg"
   },
   {
     "file": "store/68.jpg",
@@ -805,7 +873,8 @@
       "sketchbook"
     ],
     "sm": "sm/68.jpg",
-    "md": "md/68.jpg"
+    "md": "md/68.jpg",
+    "lg": "lg/68.jpg"
   },
   {
     "file": "store/69.jpg",
@@ -817,7 +886,8 @@
       "sketchbook"
     ],
     "sm": "sm/69.jpg",
-    "md": "md/69.jpg"
+    "md": "md/69.jpg",
+    "lg": "lg/69.jpg"
   },
   {
     "file": "store/70.jpg",
@@ -829,7 +899,8 @@
       "sketchbook"
     ],
     "sm": "sm/70.jpg",
-    "md": "md/70.jpg"
+    "md": "md/70.jpg",
+    "lg": "lg/70.jpg"
   },
   {
     "file": "store/71.jpg",
@@ -840,7 +911,8 @@
       "canvas"
     ],
     "sm": "sm/71.jpg",
-    "md": "md/71.jpg"
+    "md": "md/71.jpg",
+    "lg": "lg/71.jpg"
   },
   {
     "file": "store/72.jpg",
@@ -852,7 +924,8 @@
       "sketchbook"
     ],
     "sm": "sm/72.jpg",
-    "md": "md/72.jpg"
+    "md": "md/72.jpg",
+    "lg": "lg/72.jpg"
   },
   {
     "file": "store/73.jpg",
@@ -863,7 +936,8 @@
       "canvas"
     ],
     "sm": "sm/73.jpg",
-    "md": "md/73.jpg"
+    "md": "md/73.jpg",
+    "lg": "lg/73.jpg"
   },
   {
     "file": "store/74.jpg",
@@ -874,7 +948,8 @@
       "sketchbook"
     ],
     "sm": "sm/74.jpg",
-    "md": "md/74.jpg"
+    "md": "md/74.jpg",
+    "lg": "lg/74.jpg"
   },
   {
     "file": "store/75.jpg",
@@ -885,7 +960,8 @@
       "paper"
     ],
     "sm": "sm/75.jpg",
-    "md": "md/75.jpg"
+    "md": "md/75.jpg",
+    "lg": "lg/75.jpg"
   },
   {
     "file": "store/76.jpg",
@@ -897,7 +973,8 @@
       "digitalart"
     ],
     "sm": "sm/76.jpg",
-    "md": "md/76.jpg"
+    "md": "md/76.jpg",
+    "lg": "lg/76.jpg"
   },
   {
     "file": "store/77.jpg",
@@ -909,7 +986,8 @@
       "digitalart"
     ],
     "sm": "sm/77.jpg",
-    "md": "md/77.jpg"
+    "md": "md/77.jpg",
+    "lg": "lg/77.jpg"
   },
   {
     "file": "store/78.jpg",
@@ -920,7 +998,8 @@
       "sketchbook"
     ],
     "sm": "sm/78.jpg",
-    "md": "md/78.jpg"
+    "md": "md/78.jpg",
+    "lg": "lg/78.jpg"
   },
   {
     "file": "store/79.jpg",
@@ -931,7 +1010,8 @@
       "sketchbook"
     ],
     "sm": "sm/79.jpg",
-    "md": "md/79.jpg"
+    "md": "md/79.jpg",
+    "lg": "lg/79.jpg"
   },
   {
     "file": "store/80.jpg",
@@ -943,7 +1023,8 @@
       "sketchbook"
     ],
     "sm": "sm/80.jpg",
-    "md": "md/80.jpg"
+    "md": "md/80.jpg",
+    "lg": "lg/80.jpg"
   },
   {
     "file": "store/81.jpg",
@@ -955,7 +1036,8 @@
       "sketchbook"
     ],
     "sm": "sm/81.jpg",
-    "md": "md/81.jpg"
+    "md": "md/81.jpg",
+    "lg": "lg/81.jpg"
   },
   {
     "file": "store/82.jpg",
@@ -966,7 +1048,8 @@
       "canvas"
     ],
     "sm": "sm/82.jpg",
-    "md": "md/82.jpg"
+    "md": "md/82.jpg",
+    "lg": "lg/82.jpg"
   },
   {
     "file": "store/83.jpg",
@@ -978,7 +1061,8 @@
       "sketchbook"
     ],
     "sm": "sm/83.jpg",
-    "md": "md/83.jpg"
+    "md": "md/83.jpg",
+    "lg": "lg/83.jpg"
   },
   {
     "file": "store/84.jpg",
@@ -991,7 +1075,8 @@
       "sketchbook"
     ],
     "sm": "sm/84.jpg",
-    "md": "md/84.jpg"
+    "md": "md/84.jpg",
+    "lg": "lg/84.jpg"
   },
   {
     "file": "store/85.jpg",
@@ -1003,7 +1088,8 @@
       "sketchbook"
     ],
     "sm": "sm/85.jpg",
-    "md": "md/85.jpg"
+    "md": "md/85.jpg",
+    "lg": "lg/85.jpg"
   },
   {
     "file": "store/86.jpg",
@@ -1015,7 +1101,8 @@
       "sketchbook"
     ],
     "sm": "sm/86.jpg",
-    "md": "md/86.jpg"
+    "md": "md/86.jpg",
+    "lg": "lg/86.jpg"
   },
   {
     "file": "store/87.jpg",
@@ -1027,7 +1114,8 @@
       "sketchbook"
     ],
     "sm": "sm/87.jpg",
-    "md": "md/87.jpg"
+    "md": "md/87.jpg",
+    "lg": "lg/87.jpg"
   },
   {
     "file": "store/88.jpg",
@@ -1039,7 +1127,8 @@
       "sketchbook"
     ],
     "sm": "sm/88.jpg",
-    "md": "md/88.jpg"
+    "md": "md/88.jpg",
+    "lg": "lg/88.jpg"
   },
   {
     "file": "store/89.jpg",
@@ -1051,7 +1140,8 @@
       "sketchbook"
     ],
     "sm": "sm/89.jpg",
-    "md": "md/89.jpg"
+    "md": "md/89.jpg",
+    "lg": "lg/89.jpg"
   },
   {
     "file": "store/90.jpg",
@@ -1063,7 +1153,8 @@
       "sketchbook"
     ],
     "sm": "sm/90.jpg",
-    "md": "md/90.jpg"
+    "md": "md/90.jpg",
+    "lg": "lg/90.jpg"
   },
   {
     "file": "store/91.jpg",
@@ -1075,7 +1166,8 @@
       "sketchbook"
     ],
     "sm": "sm/91.jpg",
-    "md": "md/91.jpg"
+    "md": "md/91.jpg",
+    "lg": "lg/91.jpg"
   },
   {
     "file": "store/92.jpg",
@@ -1087,7 +1179,8 @@
       "sketchbook"
     ],
     "sm": "sm/92.jpg",
-    "md": "md/92.jpg"
+    "md": "md/92.jpg",
+    "lg": "lg/92.jpg"
   },
   {
     "file": "store/93.jpg",
@@ -1099,7 +1192,8 @@
       "sketchbook"
     ],
     "sm": "sm/93.jpg",
-    "md": "md/93.jpg"
+    "md": "md/93.jpg",
+    "lg": "lg/93.jpg"
   },
   {
     "file": "store/94.jpg",
@@ -1111,7 +1205,8 @@
       "sketchbook"
     ],
     "sm": "sm/94.jpg",
-    "md": "md/94.jpg"
+    "md": "md/94.jpg",
+    "lg": "lg/94.jpg"
   },
   {
     "file": "store/95.jpg",
@@ -1123,7 +1218,8 @@
       "sketchbook"
     ],
     "sm": "sm/95.jpg",
-    "md": "md/95.jpg"
+    "md": "md/95.jpg",
+    "lg": "lg/95.jpg"
   },
   {
     "file": "store/96.jpg",
@@ -1135,7 +1231,8 @@
       "sketchbook"
     ],
     "sm": "sm/96.jpg",
-    "md": "md/96.jpg"
+    "md": "md/96.jpg",
+    "lg": "lg/96.jpg"
   },
   {
     "file": "store/97.jpg",
@@ -1147,7 +1244,8 @@
       "sketchbook"
     ],
     "sm": "sm/97.jpg",
-    "md": "md/97.jpg"
+    "md": "md/97.jpg",
+    "lg": "lg/97.jpg"
   },
   {
     "file": "store/98.jpg",
@@ -1159,7 +1257,8 @@
       "sketchbook"
     ],
     "sm": "sm/98.jpg",
-    "md": "md/98.jpg"
+    "md": "md/98.jpg",
+    "lg": "lg/98.jpg"
   },
   {
     "file": "store/99.jpg",
@@ -1171,7 +1270,8 @@
       "sketchbook"
     ],
     "sm": "sm/99.jpg",
-    "md": "md/99.jpg"
+    "md": "md/99.jpg",
+    "lg": "lg/99.jpg"
   },
   {
     "file": "store/100.jpg",
@@ -1183,7 +1283,8 @@
       "sketchbook"
     ],
     "sm": "sm/100.jpg",
-    "md": "md/100.jpg"
+    "md": "md/100.jpg",
+    "lg": "lg/100.jpg"
   },
   {
     "file": "store/101.jpg",
@@ -1195,7 +1296,8 @@
       "sketchbook"
     ],
     "sm": "sm/101.jpg",
-    "md": "md/101.jpg"
+    "md": "md/101.jpg",
+    "lg": "lg/101.jpg"
   },
   {
     "file": "store/102.jpg",
@@ -1207,7 +1309,8 @@
       "sketchbook"
     ],
     "sm": "sm/102.jpg",
-    "md": "md/102.jpg"
+    "md": "md/102.jpg",
+    "lg": "lg/102.jpg"
   },
   {
     "file": "store/103.jpg",
@@ -1218,7 +1321,8 @@
       "sketchbook"
     ],
     "sm": "sm/103.jpg",
-    "md": "md/103.jpg"
+    "md": "md/103.jpg",
+    "lg": "lg/103.jpg"
   },
   {
     "file": "store/104.jpg",
@@ -1229,7 +1333,8 @@
       "sketchbook"
     ],
     "sm": "sm/104.jpg",
-    "md": "md/104.jpg"
+    "md": "md/104.jpg",
+    "lg": "lg/104.jpg"
   },
   {
     "file": "store/105.jpg",
@@ -1241,7 +1346,8 @@
       "sketchbook"
     ],
     "sm": "sm/105.jpg",
-    "md": "md/105.jpg"
+    "md": "md/105.jpg",
+    "lg": "lg/105.jpg"
   },
   {
     "file": "store/106.jpg",
@@ -1252,7 +1358,8 @@
       "sketchbook"
     ],
     "sm": "sm/106.jpg",
-    "md": "md/106.jpg"
+    "md": "md/106.jpg",
+    "lg": "lg/106.jpg"
   },
   {
     "file": "store/107.jpg",
@@ -1263,7 +1370,8 @@
       "sketchbook"
     ],
     "sm": "sm/107.jpg",
-    "md": "md/107.jpg"
+    "md": "md/107.jpg",
+    "lg": "lg/107.jpg"
   },
   {
     "file": "store/108.jpg",
@@ -1274,7 +1382,8 @@
       "sketchbook"
     ],
     "sm": "sm/108.jpg",
-    "md": "md/108.jpg"
+    "md": "md/108.jpg",
+    "lg": "lg/108.jpg"
   },
   {
     "file": "store/109.jpg",
@@ -1285,7 +1394,8 @@
       "sketchbook"
     ],
     "sm": "sm/109.jpg",
-    "md": "md/109.jpg"
+    "md": "md/109.jpg",
+    "lg": "lg/109.jpg"
   },
   {
     "file": "store/110.jpg",
@@ -1296,7 +1406,8 @@
       "sketchbook"
     ],
     "sm": "sm/110.jpg",
-    "md": "md/110.jpg"
+    "md": "md/110.jpg",
+    "lg": "lg/110.jpg"
   },
   {
     "file": "store/111.jpg",
@@ -1307,7 +1418,8 @@
       "sketchbook"
     ],
     "sm": "sm/111.jpg",
-    "md": "md/111.jpg"
+    "md": "md/111.jpg",
+    "lg": "lg/111.jpg"
   },
   {
     "file": "store/112.jpg",
@@ -1319,7 +1431,8 @@
       "sketchbook"
     ],
     "sm": "sm/112.jpg",
-    "md": "md/112.jpg"
+    "md": "md/112.jpg",
+    "lg": "lg/112.jpg"
   },
   {
     "file": "store/113.jpg",
@@ -1330,7 +1443,8 @@
       "sketchbook"
     ],
     "sm": "sm/113.jpg",
-    "md": "md/113.jpg"
+    "md": "md/113.jpg",
+    "lg": "lg/113.jpg"
   },
   {
     "file": "store/114.jpg",
@@ -1341,7 +1455,8 @@
       "sketchbook"
     ],
     "sm": "sm/114.jpg",
-    "md": "md/114.jpg"
+    "md": "md/114.jpg",
+    "lg": "lg/114.jpg"
   },
   {
     "file": "store/115.jpg",
@@ -1352,7 +1467,8 @@
       "sketchbook"
     ],
     "sm": "sm/115.jpg",
-    "md": "md/115.jpg"
+    "md": "md/115.jpg",
+    "lg": "lg/115.jpg"
   },
   {
     "file": "store/116.jpg",
@@ -1363,7 +1479,8 @@
       "sketchbook"
     ],
     "sm": "sm/116.jpg",
-    "md": "md/116.jpg"
+    "md": "md/116.jpg",
+    "lg": "lg/116.jpg"
   },
   {
     "file": "store/117.jpg",
@@ -1374,7 +1491,8 @@
       "sketchbook"
     ],
     "sm": "sm/117.jpg",
-    "md": "md/117.jpg"
+    "md": "md/117.jpg",
+    "lg": "lg/117.jpg"
   },
   {
     "file": "store/118.jpg",
@@ -1385,7 +1503,8 @@
       "sketchbook"
     ],
     "sm": "sm/118.jpg",
-    "md": "md/118.jpg"
+    "md": "md/118.jpg",
+    "lg": "lg/118.jpg"
   },
   {
     "file": "store/119.jpg",
@@ -1396,7 +1515,8 @@
       "sketchbook"
     ],
     "sm": "sm/119.jpg",
-    "md": "md/119.jpg"
+    "md": "md/119.jpg",
+    "lg": "lg/119.jpg"
   },
   {
     "file": "store/120.jpg",
@@ -1408,7 +1528,8 @@
       "sketchbook"
     ],
     "sm": "sm/120.jpg",
-    "md": "md/120.jpg"
+    "md": "md/120.jpg",
+    "lg": "lg/120.jpg"
   },
   {
     "file": "store/121.jpg",
@@ -1419,7 +1540,8 @@
       "sketchbook"
     ],
     "sm": "sm/121.jpg",
-    "md": "md/121.jpg"
+    "md": "md/121.jpg",
+    "lg": "lg/121.jpg"
   },
   {
     "file": "store/122.jpg",
@@ -1430,7 +1552,8 @@
       "sketchbook"
     ],
     "sm": "sm/122.jpg",
-    "md": "md/122.jpg"
+    "md": "md/122.jpg",
+    "lg": "lg/122.jpg"
   },
   {
     "file": "store/123.jpg",
@@ -1441,7 +1564,8 @@
       "sketchbook"
     ],
     "sm": "sm/123.jpg",
-    "md": "md/123.jpg"
+    "md": "md/123.jpg",
+    "lg": "lg/123.jpg"
   },
   {
     "file": "store/124.jpg",
@@ -1452,7 +1576,8 @@
       "sketchbook"
     ],
     "sm": "sm/124.jpg",
-    "md": "md/124.jpg"
+    "md": "md/124.jpg",
+    "lg": "lg/124.jpg"
   },
   {
     "file": "store/125.jpg",
@@ -1463,7 +1588,8 @@
       "sketchbook"
     ],
     "sm": "sm/125.jpg",
-    "md": "md/125.jpg"
+    "md": "md/125.jpg",
+    "lg": "lg/125.jpg"
   },
   {
     "file": "store/126.jpg",
@@ -1474,7 +1600,8 @@
       "sketchbook"
     ],
     "sm": "sm/126.jpg",
-    "md": "md/126.jpg"
+    "md": "md/126.jpg",
+    "lg": "lg/126.jpg"
   },
   {
     "file": "store/127.jpg",
@@ -1485,7 +1612,8 @@
       "sketchbook"
     ],
     "sm": "sm/127.jpg",
-    "md": "md/127.jpg"
+    "md": "md/127.jpg",
+    "lg": "lg/127.jpg"
   },
   {
     "file": "store/128.jpg",
@@ -1497,7 +1625,8 @@
       "sketchbook"
     ],
     "sm": "sm/128.jpg",
-    "md": "md/128.jpg"
+    "md": "md/128.jpg",
+    "lg": "lg/128.jpg"
   },
   {
     "file": "store/129.jpg",
@@ -1508,7 +1637,8 @@
       "sketchbook"
     ],
     "sm": "sm/129.jpg",
-    "md": "md/129.jpg"
+    "md": "md/129.jpg",
+    "lg": "lg/129.jpg"
   },
   {
     "file": "store/130.jpg",
@@ -1519,7 +1649,8 @@
       "sketchbook"
     ],
     "sm": "sm/130.jpg",
-    "md": "md/130.jpg"
+    "md": "md/130.jpg",
+    "lg": "lg/130.jpg"
   },
   {
     "file": "store/131.jpg",
@@ -1530,7 +1661,8 @@
       "sketchbook"
     ],
     "sm": "sm/131.jpg",
-    "md": "md/131.jpg"
+    "md": "md/131.jpg",
+    "lg": "lg/131.jpg"
   },
   {
     "file": "store/132.jpg",
@@ -1541,7 +1673,8 @@
       "sketchbook"
     ],
     "sm": "sm/132.jpg",
-    "md": "md/132.jpg"
+    "md": "md/132.jpg",
+    "lg": "lg/132.jpg"
   },
   {
     "file": "store/133.jpg",
@@ -1552,7 +1685,8 @@
       "sketchbook"
     ],
     "sm": "sm/133.jpg",
-    "md": "md/133.jpg"
+    "md": "md/133.jpg",
+    "lg": "lg/133.jpg"
   },
   {
     "file": "store/134.jpg",
@@ -1563,7 +1697,8 @@
       "sketchbook"
     ],
     "sm": "sm/134.jpg",
-    "md": "md/134.jpg"
+    "md": "md/134.jpg",
+    "lg": "lg/134.jpg"
   },
   {
     "file": "store/135.jpg",
@@ -1574,7 +1709,8 @@
       "sketchbook"
     ],
     "sm": "sm/135.jpg",
-    "md": "md/135.jpg"
+    "md": "md/135.jpg",
+    "lg": "lg/135.jpg"
   },
   {
     "file": "store/136.jpg",
@@ -1585,7 +1721,8 @@
       "sketchbook"
     ],
     "sm": "sm/136.jpg",
-    "md": "md/136.jpg"
+    "md": "md/136.jpg",
+    "lg": "lg/136.jpg"
   },
   {
     "file": "store/137.jpg",
@@ -1596,7 +1733,8 @@
       "sketchbook"
     ],
     "sm": "sm/137.jpg",
-    "md": "md/137.jpg"
+    "md": "md/137.jpg",
+    "lg": "lg/137.jpg"
   },
   {
     "file": "store/138.jpg",
@@ -1607,7 +1745,8 @@
       "sketchbook"
     ],
     "sm": "sm/138.jpg",
-    "md": "md/138.jpg"
+    "md": "md/138.jpg",
+    "lg": "lg/138.jpg"
   },
   {
     "file": "store/139.jpg",
@@ -1618,7 +1757,8 @@
       "sketchbook"
     ],
     "sm": "sm/139.jpg",
-    "md": "md/139.jpg"
+    "md": "md/139.jpg",
+    "lg": "lg/139.jpg"
   },
   {
     "file": "store/140.jpg",
@@ -1629,7 +1769,8 @@
       "sketchbook"
     ],
     "sm": "sm/140.jpg",
-    "md": "md/140.jpg"
+    "md": "md/140.jpg",
+    "lg": "lg/140.jpg"
   },
   {
     "file": "store/141.jpg",
@@ -1642,7 +1783,8 @@
       "sketchbook"
     ],
     "sm": "sm/141.jpg",
-    "md": "md/141.jpg"
+    "md": "md/141.jpg",
+    "lg": "lg/141.jpg"
   },
   {
     "file": "store/142.jpg",
@@ -1653,7 +1795,8 @@
       "sketchbook"
     ],
     "sm": "sm/142.jpg",
-    "md": "md/142.jpg"
+    "md": "md/142.jpg",
+    "lg": "lg/142.jpg"
   },
   {
     "file": "store/143.jpg",
@@ -1664,7 +1807,8 @@
       "sketchbook"
     ],
     "sm": "sm/143.jpg",
-    "md": "md/143.jpg"
+    "md": "md/143.jpg",
+    "lg": "lg/143.jpg"
   },
   {
     "file": "store/144.jpg",
@@ -1677,7 +1821,8 @@
       "sketchbook"
     ],
     "sm": "sm/144.jpg",
-    "md": "md/144.jpg"
+    "md": "md/144.jpg",
+    "lg": "lg/144.jpg"
   },
   {
     "file": "store/145.jpg",
@@ -1688,7 +1833,8 @@
       "sketchbook"
     ],
     "sm": "sm/145.jpg",
-    "md": "md/145.jpg"
+    "md": "md/145.jpg",
+    "lg": "lg/145.jpg"
   },
   {
     "file": "store/146.jpg",
@@ -1700,7 +1846,8 @@
       "sketchbook"
     ],
     "sm": "sm/146.jpg",
-    "md": "md/146.jpg"
+    "md": "md/146.jpg",
+    "lg": "lg/146.jpg"
   },
   {
     "file": "store/147.jpg",
@@ -1711,7 +1858,8 @@
       "sketchbook"
     ],
     "sm": "sm/147.jpg",
-    "md": "md/147.jpg"
+    "md": "md/147.jpg",
+    "lg": "lg/147.jpg"
   },
   {
     "file": "store/148.jpg",
@@ -1722,7 +1870,8 @@
       "paper"
     ],
     "sm": "sm/148.jpg",
-    "md": "md/148.jpg"
+    "md": "md/148.jpg",
+    "lg": "lg/148.jpg"
   },
   {
     "file": "store/149.jpg",
@@ -1735,7 +1884,8 @@
       "sketchbook"
     ],
     "sm": "sm/149.jpg",
-    "md": "md/149.jpg"
+    "md": "md/149.jpg",
+    "lg": "lg/149.jpg"
   },
   {
     "file": "store/150.jpg",
@@ -1746,7 +1896,8 @@
       "sketchbook"
     ],
     "sm": "sm/150.jpg",
-    "md": "md/150.jpg"
+    "md": "md/150.jpg",
+    "lg": "lg/150.jpg"
   },
   {
     "file": "store/151.jpg",
@@ -1757,7 +1908,8 @@
       "sketchbook"
     ],
     "sm": "sm/151.jpg",
-    "md": "md/151.jpg"
+    "md": "md/151.jpg",
+    "lg": "lg/151.jpg"
   },
   {
     "file": "store/152.jpg",
@@ -1768,7 +1920,8 @@
       "sketchbook"
     ],
     "sm": "sm/152.jpg",
-    "md": "md/152.jpg"
+    "md": "md/152.jpg",
+    "lg": "lg/152.jpg"
   },
   {
     "file": "store/153.jpg",
@@ -1779,7 +1932,8 @@
       "handmade paper"
     ],
     "sm": "sm/153.jpg",
-    "md": "md/153.jpg"
+    "md": "md/153.jpg",
+    "lg": "lg/153.jpg"
   },
   {
     "file": "store/154.jpg",
@@ -1790,7 +1944,8 @@
       "handmade paper"
     ],
     "sm": "sm/154.jpg",
-    "md": "md/154.jpg"
+    "md": "md/154.jpg",
+    "lg": "lg/154.jpg"
   },
   {
     "file": "store/155.jpg",
@@ -1801,7 +1956,8 @@
       "handmade paper"
     ],
     "sm": "sm/155.jpg",
-    "md": "md/155.jpg"
+    "md": "md/155.jpg",
+    "lg": "lg/155.jpg"
   },
   {
     "file": "store/156.jpg",
@@ -1812,7 +1968,8 @@
       "sketchbook"
     ],
     "sm": "sm/156.jpg",
-    "md": "md/156.jpg"
+    "md": "md/156.jpg",
+    "lg": "lg/156.jpg"
   },
   {
     "file": "store/157.jpg",
@@ -1823,7 +1980,8 @@
       "sketchbook"
     ],
     "sm": "sm/157.jpg",
-    "md": "md/157.jpg"
+    "md": "md/157.jpg",
+    "lg": "lg/157.jpg"
   },
   {
     "file": "store/158.jpg",
@@ -1834,7 +1992,8 @@
       "handmade paper"
     ],
     "sm": "sm/158.jpg",
-    "md": "md/158.jpg"
+    "md": "md/158.jpg",
+    "lg": "lg/158.jpg"
   },
   {
     "file": "store/159.jpg",
@@ -1845,7 +2004,8 @@
       "sketchbook"
     ],
     "sm": "sm/159.jpg",
-    "md": "md/159.jpg"
+    "md": "md/159.jpg",
+    "lg": "lg/159.jpg"
   },
   {
     "file": "store/160.jpg",
@@ -1856,7 +2016,8 @@
       "sketchbook"
     ],
     "sm": "sm/160.jpg",
-    "md": "md/160.jpg"
+    "md": "md/160.jpg",
+    "lg": "lg/160.jpg"
   },
   {
     "file": "store/161.jpg",
@@ -1867,7 +2028,8 @@
       "handmade paper"
     ],
     "sm": "sm/161.jpg",
-    "md": "md/161.jpg"
+    "md": "md/161.jpg",
+    "lg": "lg/161.jpg"
   },
   {
     "file": "store/162.jpg",
@@ -1878,7 +2040,8 @@
       "handmade paper"
     ],
     "sm": "sm/162.jpg",
-    "md": "md/162.jpg"
+    "md": "md/162.jpg",
+    "lg": "lg/162.jpg"
   },
   {
     "file": "store/163.jpg",
@@ -1889,7 +2052,8 @@
       "handmade paper"
     ],
     "sm": "sm/163.jpg",
-    "md": "md/163.jpg"
+    "md": "md/163.jpg",
+    "lg": "lg/163.jpg"
   },
   {
     "file": "store/164.jpg",
@@ -1900,7 +2064,8 @@
       "handmade paper"
     ],
     "sm": "sm/164.jpg",
-    "md": "md/164.jpg"
+    "md": "md/164.jpg",
+    "lg": "lg/164.jpg"
   },
   {
     "file": "store/165.jpg",
@@ -1911,7 +2076,8 @@
       "sketchbook"
     ],
     "sm": "sm/165.jpg",
-    "md": "md/165.jpg"
+    "md": "md/165.jpg",
+    "lg": "lg/165.jpg"
   },
   {
     "file": "store/166.jpg",
@@ -1922,7 +2088,8 @@
       "handmade paper"
     ],
     "sm": "sm/166.jpg",
-    "md": "md/166.jpg"
+    "md": "md/166.jpg",
+    "lg": "lg/166.jpg"
   },
   {
     "file": "store/167.jpg",
@@ -1933,7 +2100,8 @@
       "sketchbook"
     ],
     "sm": "sm/167.jpg",
-    "md": "md/167.jpg"
+    "md": "md/167.jpg",
+    "lg": "lg/167.jpg"
   },
   {
     "file": "store/168.jpg",
@@ -1944,7 +2112,8 @@
       "handmade paper"
     ],
     "sm": "sm/168.jpg",
-    "md": "md/168.jpg"
+    "md": "md/168.jpg",
+    "lg": "lg/168.jpg"
   },
   {
     "file": "store/169.jpg",
@@ -1955,7 +2124,8 @@
       "handmade paper"
     ],
     "sm": "sm/169.jpg",
-    "md": "md/169.jpg"
+    "md": "md/169.jpg",
+    "lg": "lg/169.jpg"
   },
   {
     "file": "store/170.jpg",
@@ -1966,7 +2136,8 @@
       "handmade paper"
     ],
     "sm": "sm/170.jpg",
-    "md": "md/170.jpg"
+    "md": "md/170.jpg",
+    "lg": "lg/170.jpg"
   },
   {
     "file": "store/171.jpg",
@@ -1977,7 +2148,8 @@
       "canvas"
     ],
     "sm": "sm/171.jpg",
-    "md": "md/171.jpg"
+    "md": "md/171.jpg",
+    "lg": "lg/171.jpg"
   },
   {
     "file": "store/172.jpg",
@@ -1988,6 +2160,7 @@
       "sketchbook"
     ],
     "sm": "sm/172.jpg",
-    "md": "md/172.jpg"
+    "md": "md/172.jpg",
+    "lg": "lg/172.jpg"
   }
 ]
