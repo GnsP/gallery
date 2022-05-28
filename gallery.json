@@ -2162,5 +2162,931 @@
     "sm": "sm/172.jpg",
     "md": "md/172.jpg",
     "lg": "lg/172.jpg"
+  },
+  {
+    "file": "store/173.jpg",
+    "name": "Human skull",
+    "year": "2020",
+    "tags": [
+      "sketchbook",
+      "watercolour"
+    ],
+    "sm": "sm/173.jpg",
+    "md": "md/173.jpg",
+    "lg": "lg/173.jpg"
+  },
+  {
+    "file": "store/174.jpg",
+    "name": "Mismatched shoes",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/174.jpg",
+    "md": "md/174.jpg",
+    "lg": "lg/174.jpg"
+  },
+  {
+    "file": "store/175.jpg",
+    "name": "Alakananda",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/175.jpg",
+    "md": "md/175.jpg",
+    "lg": "lg/175.jpg"
+  },
+  {
+    "file": "store/176.jpg",
+    "name": "Heisenberg",
+    "year": "2022",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/176.jpg",
+    "md": "md/176.jpg",
+    "lg": "lg/176.jpg"
+  },
+  {
+    "file": "store/177.jpg",
+    "name": "A roadside scene",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/177.jpg",
+    "md": "md/177.jpg",
+    "lg": "lg/177.jpg"
+  },
+  {
+    "file": "store/178.jpg",
+    "name": "Sketch of a woman",
+    "year": "2019",
+    "tags": [
+      "sketchbook",
+      "pen",
+      "ink"
+    ],
+    "sm": "sm/178.jpg",
+    "md": "md/178.jpg",
+    "lg": "lg/178.jpg"
+  },
+  {
+    "file": "store/179.jpg",
+    "name": "Homeless man in winter",
+    "year": "2022",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/179.jpg",
+    "md": "md/179.jpg",
+    "lg": "lg/179.jpg"
+  },
+  {
+    "file": "store/180.jpg",
+    "name": "Pankaj Tripathy",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/180.jpg",
+    "md": "md/180.jpg",
+    "lg": "lg/180.jpg"
+  },
+  {
+    "file": "store/181.jpg",
+    "name": "At Utkal Hospital, waiting",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/181.jpg",
+    "md": "md/181.jpg",
+    "lg": "lg/181.jpg"
+  },
+  {
+    "file": "store/182.jpg",
+    "name": "Yohani",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/182.jpg",
+    "md": "md/182.jpg",
+    "lg": "lg/182.jpg"
+  },
+  {
+    "file": "store/183.jpg",
+    "name": "Another Ganesh",
+    "year": "2020",
+    "tags": [
+      "sketchbook",
+      "watercolour"
+    ],
+    "sm": "sm/183.jpg",
+    "md": "md/183.jpg",
+    "lg": "lg/183.jpg"
+  },
+  {
+    "file": "store/184.jpg",
+    "name": "Cottage beside the woods",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/184.jpg",
+    "md": "md/184.jpg",
+    "lg": "lg/184.jpg"
+  },
+  {
+    "file": "store/185.jpg",
+    "name": "Self portrait 5",
+    "year": "2020",
+    "tags": [
+      "acrylic",
+      "canvas"
+    ],
+    "sm": "sm/185.jpg",
+    "md": "md/185.jpg",
+    "lg": "lg/185.jpg"
+  },
+  {
+    "file": "store/186.jpg",
+    "name": "Neighborhood",
+    "year": "2020",
+    "tags": [
+      "watercolour",
+      "sketchbook"
+    ],
+    "sm": "sm/186.jpg",
+    "md": "md/186.jpg",
+    "lg": "lg/186.jpg"
+  },
+  {
+    "file": "store/187.jpg",
+    "name": "A face",
+    "year": "2020",
+    "tags": [
+      "sketchbook",
+      "pencil"
+    ],
+    "sm": "sm/187.jpg",
+    "md": "md/187.jpg",
+    "lg": "lg/187.jpg"
+  },
+  {
+    "file": "store/188.jpg",
+    "name": "Wild goat",
+    "year": "2020",
+    "tags": [
+      "sketchbook",
+      "watercolour"
+    ],
+    "sm": "sm/188.jpg",
+    "md": "md/188.jpg",
+    "lg": "lg/188.jpg"
+  },
+  {
+    "file": "store/189.jpg",
+    "name": "Woman with a mirror",
+    "year": "2022",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/189.jpg",
+    "md": "md/189.jpg",
+    "lg": "lg/189.jpg"
+  },
+  {
+    "file": "store/190.jpg",
+    "name": "Woman, getting up",
+    "year": "2022",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/190.jpg",
+    "md": "md/190.jpg",
+    "lg": "lg/190.jpg"
+  },
+  {
+    "file": "store/191.jpg",
+    "name": "A smuggler",
+    "year": "2022",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/191.jpg",
+    "md": "md/191.jpg",
+    "lg": "lg/191.jpg"
+  },
+  {
+    "file": "store/192.jpg",
+    "name": "Tree, sketch",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/192.jpg",
+    "md": "md/192.jpg",
+    "lg": "lg/192.jpg"
+  },
+  {
+    "file": "store/193.jpg",
+    "name": "A truck in a street",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/193.jpg",
+    "md": "md/193.jpg",
+    "lg": "lg/193.jpg"
+  },
+  {
+    "file": "store/194.jpg",
+    "name": "Rajat",
+    "year": "2022",
+    "tags": [
+      "acrylic",
+      "paper"
+    ],
+    "sm": "sm/194.jpg",
+    "md": "md/194.jpg",
+    "lg": "lg/194.jpg"
+  },
+  {
+    "file": "store/195.jpg",
+    "name": "Rishi Kapoor in his youth",
+    "year": "2020",
+    "tags": [
+      "watercolour",
+      "paper"
+    ],
+    "sm": "sm/195.jpg",
+    "md": "md/195.jpg",
+    "lg": "lg/195.jpg"
+  },
+  {
+    "file": "store/196.jpg",
+    "name": "Dukhiram Swain",
+    "year": "2022",
+    "tags": [
+      "watercolour",
+      "sketchbook"
+    ],
+    "sm": "sm/196.jpg",
+    "md": "md/196.jpg",
+    "lg": "lg/196.jpg"
+  },
+  {
+    "file": "store/197.jpg",
+    "name": "Sad old man",
+    "year": "2020",
+    "tags": [
+      "watercolour",
+      "paper"
+    ],
+    "sm": "sm/197.jpg",
+    "md": "md/197.jpg",
+    "lg": "lg/197.jpg"
+  },
+  {
+    "file": "store/198.jpg",
+    "name": "Lata Mangeshkar",
+    "year": "2022",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/198.jpg",
+    "md": "md/198.jpg",
+    "lg": "lg/198.jpg"
+  },
+  {
+    "file": "store/199.jpg",
+    "name": "Woman, resting",
+    "year": "2020",
+    "tags": [
+      "acrylic",
+      "canvas"
+    ],
+    "sm": "sm/199.jpg",
+    "md": "md/199.jpg",
+    "lg": "lg/199.jpg"
+  },
+  {
+    "file": "store/200.jpg",
+    "name": "Buddha 2",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/200.jpg",
+    "md": "md/200.jpg",
+    "lg": "lg/200.jpg"
+  },
+  {
+    "file": "store/201.jpg",
+    "name": "Hornbill",
+    "year": "2020",
+    "tags": [
+      "acrylic",
+      "canvas"
+    ],
+    "sm": "sm/201.jpg",
+    "md": "md/201.jpg",
+    "lg": "lg/201.jpg"
+  },
+  {
+    "file": "store/202.jpg",
+    "name": "Neeraj Chopra",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/202.jpg",
+    "md": "md/202.jpg",
+    "lg": "lg/202.jpg"
+  },
+  {
+    "file": "store/203.jpg",
+    "name": "Moneylender",
+    "year": "2020",
+    "tags": [
+      "watercolour",
+      "sketchbook"
+    ],
+    "sm": "sm/203.jpg",
+    "md": "md/203.jpg",
+    "lg": "lg/203.jpg"
+  },
+  {
+    "file": "store/204.jpg",
+    "name": "Puneeth Rajkumar",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/204.jpg",
+    "md": "md/204.jpg",
+    "lg": "lg/204.jpg"
+  },
+  {
+    "file": "store/205.jpg",
+    "name": "A girl, looking up",
+    "year": "2020",
+    "tags": [
+      "watercolour",
+      "sketchbook"
+    ],
+    "sm": "sm/205.jpg",
+    "md": "md/205.jpg",
+    "lg": "lg/205.jpg"
+  },
+  {
+    "file": "store/206.jpg",
+    "name": "Mihir Das",
+    "year": "2022",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/206.jpg",
+    "md": "md/206.jpg",
+    "lg": "lg/206.jpg"
+  },
+  {
+    "file": "store/207.jpg",
+    "name": "Fakir Mohan 2",
+    "year": "2022",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/207.jpg",
+    "md": "md/207.jpg",
+    "lg": "lg/207.jpg"
+  },
+  {
+    "file": "store/208.jpg",
+    "name": "Gopinatha",
+    "year": "2022",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/208.jpg",
+    "md": "md/208.jpg",
+    "lg": "lg/208.jpg"
+  },
+  {
+    "file": "store/209.jpg",
+    "name": "Satyajit Mohanty",
+    "year": "2022",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/209.jpg",
+    "md": "md/209.jpg",
+    "lg": "lg/209.jpg"
+  },
+  {
+    "file": "store/210.jpg",
+    "name": "Road roller",
+    "year": "2020",
+    "tags": [
+      "acrylic",
+      "canvas"
+    ],
+    "sm": "sm/210.jpg",
+    "md": "md/210.jpg",
+    "lg": "lg/210.jpg"
+  },
+  {
+    "file": "store/211.jpg",
+    "name": "Mama",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/211.jpg",
+    "md": "md/211.jpg",
+    "lg": "lg/211.jpg"
+  },
+  {
+    "file": "store/212.jpg",
+    "name": "Hindu Monk 2",
+    "year": "2022",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/212.jpg",
+    "md": "md/212.jpg",
+    "lg": "lg/212.jpg"
+  },
+  {
+    "file": "store/213.jpg",
+    "name": "Street",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/213.jpg",
+    "md": "md/213.jpg",
+    "lg": "lg/213.jpg"
+  },
+  {
+    "file": "store/214.jpg",
+    "name": "Crow",
+    "year": "2022",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/214.jpg",
+    "md": "md/214.jpg",
+    "lg": "lg/214.jpg"
+  },
+  {
+    "file": "store/215.jpg",
+    "name": "Sonu",
+    "year": "2022",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/215.jpg",
+    "md": "md/215.jpg",
+    "lg": "lg/215.jpg"
+  },
+  {
+    "file": "store/216.jpg",
+    "name": "Lantern 2",
+    "year": "2020",
+    "tags": [
+      "watercolour",
+      "sketchbook"
+    ],
+    "sm": "sm/216.jpg",
+    "md": "md/216.jpg",
+    "lg": "lg/216.jpg"
+  },
+  {
+    "file": "store/217.jpg",
+    "name": "Ganesha 2",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/217.jpg",
+    "md": "md/217.jpg",
+    "lg": "lg/217.jpg"
+  },
+  {
+    "file": "store/218.jpg",
+    "name": "A farmer",
+    "year": "2020",
+    "tags": [
+      "watercolour",
+      "sketchbook"
+    ],
+    "sm": "sm/218.jpg",
+    "md": "md/218.jpg",
+    "lg": "lg/218.jpg"
+  },
+  {
+    "file": "store/219.jpg",
+    "name": "Buddha",
+    "year": "2020",
+    "tags": [
+      "acrylic",
+      "canvas"
+    ],
+    "sm": "sm/219.jpg",
+    "md": "md/219.jpg",
+    "lg": "lg/219.jpg"
+  },
+  {
+    "file": "store/220.jpg",
+    "name": "Woman, sitting",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/220.jpg",
+    "md": "md/220.jpg",
+    "lg": "lg/220.jpg"
+  },
+  {
+    "file": "store/221.jpg",
+    "name": "Irfan Khan",
+    "year": "2020",
+    "tags": [
+      "acrylic",
+      "canvas"
+    ],
+    "sm": "sm/221.jpg",
+    "md": "md/221.jpg",
+    "lg": "lg/221.jpg"
+  },
+  {
+    "file": "store/222.jpg",
+    "name": "A villager 2",
+    "year": "2022",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/222.jpg",
+    "md": "md/222.jpg",
+    "lg": "lg/222.jpg"
+  },
+  {
+    "file": "store/223.jpg",
+    "name": "Woman, looking up 2",
+    "year": "2020",
+    "tags": [
+      "watercolour",
+      "sketchbook"
+    ],
+    "sm": "sm/223.jpg",
+    "md": "md/223.jpg",
+    "lg": "lg/223.jpg"
+  },
+  {
+    "file": "store/224.jpg",
+    "name": "Bijay Mohanty",
+    "year": "2020",
+    "tags": [
+      "watercolour",
+      "sketchbook"
+    ],
+    "sm": "sm/224.jpg",
+    "md": "md/224.jpg",
+    "lg": "lg/224.jpg"
+  },
+  {
+    "file": "store/225.jpg",
+    "name": "Donald",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/225.jpg",
+    "md": "md/225.jpg",
+    "lg": "lg/225.jpg"
+  },
+  {
+    "file": "store/226.jpg",
+    "name": "Madhusudan Das",
+    "year": "2020",
+    "tags": [
+      "watercolour",
+      "sketchbook"
+    ],
+    "sm": "sm/226.jpg",
+    "md": "md/226.jpg",
+    "lg": "lg/226.jpg"
+  },
+  {
+    "file": "store/228.jpg",
+    "name": "A hungry kid",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/228.jpg",
+    "md": "md/228.jpg",
+    "lg": "lg/228.jpg"
+  },
+  {
+    "file": "store/229.jpg",
+    "name": "Jeep on a forest road",
+    "year": "2020",
+    "tags": [
+      "acrylic",
+      "canvas"
+    ],
+    "sm": "sm/229.jpg",
+    "md": "md/229.jpg",
+    "lg": "lg/229.jpg"
+  },
+  {
+    "file": "store/230.jpg",
+    "name": "The eyes are not here",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate",
+      "canvas"
+    ],
+    "sm": "sm/230.jpg",
+    "md": "md/230.jpg",
+    "lg": "lg/230.jpg"
+  },
+  {
+    "file": "store/231.jpg",
+    "name": "Stop war in Ukrain",
+    "year": "2022",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/231.jpg",
+    "md": "md/231.jpg",
+    "lg": "lg/231.jpg"
+  },
+  {
+    "file": "store/232.jpg",
+    "name": "Gohira",
+    "year": "2022",
+    "tags": [
+      "watercolour",
+      "paper"
+    ],
+    "sm": "sm/232.jpg",
+    "md": "md/232.jpg",
+    "lg": "lg/232.jpg"
+  },
+  {
+    "file": "store/233.jpg",
+    "name": "King with a courtier",
+    "year": "2020",
+    "tags": [
+      "watercolour",
+      "sketchbook"
+    ],
+    "sm": "sm/233.jpg",
+    "md": "md/233.jpg",
+    "lg": "lg/233.jpg"
+  },
+  {
+    "file": "store/234.jpg",
+    "name": "Water delivery boy",
+    "year": "2020",
+    "tags": [
+      "acrylic",
+      "canvas"
+    ],
+    "sm": "sm/234.jpg",
+    "md": "md/234.jpg",
+    "lg": "lg/234.jpg"
+  },
+  {
+    "file": "store/235.jpg",
+    "name": "Door",
+    "year": "2020",
+    "tags": [
+      "watercolour",
+      "sketchbook"
+    ],
+    "sm": "sm/235.jpg",
+    "md": "md/235.jpg",
+    "lg": "lg/235.jpg"
+  },
+  {
+    "file": "store/236.jpg",
+    "name": "Khandagiri",
+    "year": "2020",
+    "tags": [
+      "watercolour",
+      "paper"
+    ],
+    "sm": "sm/236.jpg",
+    "md": "md/236.jpg",
+    "lg": "lg/236.jpg"
+  },
+  {
+    "file": "store/237.jpg",
+    "name": "On the road to Gadachandi",
+    "year": "2022",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/237.jpg",
+    "md": "md/237.jpg",
+    "lg": "lg/237.jpg"
+  },
+  {
+    "file": "store/238.jpg",
+    "name": "Byomkesh Bakshi, young",
+    "year": "2022",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/238.jpg",
+    "md": "md/238.jpg",
+    "lg": "lg/238.jpg"
+  },
+  {
+    "file": "store/239.jpg",
+    "name": "Self portrait 6",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/239.jpg",
+    "md": "md/239.jpg",
+    "lg": "lg/239.jpg"
+  },
+  {
+    "file": "store/240.jpg",
+    "name": "Shalabhanjika",
+    "year": "2022",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/240.jpg",
+    "md": "md/240.jpg",
+    "lg": "lg/240.jpg"
+  },
+  {
+    "file": "store/241.jpg",
+    "name": "Chilika",
+    "year": "2020",
+    "tags": [
+      "acrylic",
+      "canvas"
+    ],
+    "sm": "sm/241.jpg",
+    "md": "md/241.jpg",
+    "lg": "lg/241.jpg"
+  },
+  {
+    "file": "store/242.jpg",
+    "name": "Old woman with kid",
+    "year": "2020",
+    "tags": [
+      "acrylic",
+      "canvas"
+    ],
+    "sm": "sm/242.jpg",
+    "md": "md/242.jpg",
+    "lg": "lg/242.jpg"
+  },
+  {
+    "file": "store/243.jpg",
+    "name": "Self portrait 7",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/243.jpg",
+    "md": "md/243.jpg",
+    "lg": "lg/243.jpg"
+  },
+  {
+    "file": "store/244.jpg",
+    "name": "Shoes, mine",
+    "year": "2020",
+    "tags": [
+      "acrylic",
+      "canvas"
+    ],
+    "sm": "sm/244.jpg",
+    "md": "md/244.jpg",
+    "lg": "lg/244.jpg"
+  },
+  {
+    "file": "store/245.jpg",
+    "name": "Peacock",
+    "year": "2020",
+    "tags": [
+      "watercolour",
+      "sketchbook"
+    ],
+    "sm": "sm/245.jpg",
+    "md": "md/245.jpg",
+    "lg": "lg/245.jpg"
+  },
+  {
+    "file": "store/246.jpg",
+    "name": "Brejan's house",
+    "year": "2020",
+    "tags": [
+      "acrylic",
+      "canvas"
+    ],
+    "sm": "sm/246.jpg",
+    "md": "md/246.jpg",
+    "lg": "lg/246.jpg"
+  },
+  {
+    "file": "store/247.jpg",
+    "name": "House with a red roof",
+    "year": "2020",
+    "tags": [
+      "watercolour",
+      "paper"
+    ],
+    "sm": "sm/247.jpg",
+    "md": "md/247.jpg",
+    "lg": "lg/247.jpg"
+  },
+  {
+    "file": "store/248.jpg",
+    "name": "Hindu Monk 3",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/248.jpg",
+    "md": "md/248.jpg",
+    "lg": "lg/248.jpg"
+  },
+  {
+    "file": "store/249.jpg",
+    "name": "Self portrait 8",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/249.jpg",
+    "md": "md/249.jpg",
+    "lg": "lg/249.jpg"
+  },
+  {
+    "file": "store/250.jpg",
+    "name": "Odishi dancer 3",
+    "year": "2021",
+    "tags": [
+      "digitalart",
+      "procreate"
+    ],
+    "sm": "sm/250.jpg",
+    "md": "md/250.jpg",
+    "lg": "lg/250.jpg"
   }
 ]
